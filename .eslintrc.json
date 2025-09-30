@@ -1,5 +1,5 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript", "prettier"], vafvsfs
+  "extends": ["next/core-web-vitals", "next/typescript", "prettier"], vafvsfsfdfADaDa
   "rules": {
     "@typescript-eslint/no-unused-vars": [
       "error",
