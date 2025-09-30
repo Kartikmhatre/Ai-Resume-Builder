@@ -1,4 +1,4 @@
-/** @type {import('postcss-load-config').Config} */ wfwifwrihwr
+/** @type {import('postcss-load-config').Config} */ wfwifwrihwreffaw
 const config = {
   plugins: {
     tailwindcss: {},
