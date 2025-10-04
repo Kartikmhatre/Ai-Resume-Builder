@@ -2,7 +2,7 @@
   <br />
 
   <!-- 🖼️ Using the Enhancv-style banner you showed -->
-  <img src="https://enhancv.com/ai-resume-builder/" alt="AI Resume Builder Banner" width="100%">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenhancv.com%2Fai-resume-builder%2F&psig=AOvVaw1FRA_JTedB5DY5bCWRdfJ_&ust=1759656586486000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDspuOdipADFQAAAAAdAAAAABAE" alt="AI Resume Builder Banner" width="100%">
 
   <br />
   <div>
