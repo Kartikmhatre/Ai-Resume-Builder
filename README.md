@@ -1,11 +1,10 @@
 <div align="center">
   <br />
 
-  <!-- 🖼️ Project Banner -->
-  <img src="https://raw.githubusercontent.com/Kartikmhatre/Ai-Resume-Builder/main/public/readme/hero.webp" alt="AI Resume Builder Banner" width="100%">
-  <br />
+  <!-- 🖼️ Using the Enhancv-style banner you showed -->
+  <img src="https://enhancv.com/ai-resume-builder/" alt="AI Resume Builder Banner" width="100%">
 
-  <!-- 🧩 Tech Badges -->
+  <br />
   <div>
     <img alt="React Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -24,61 +23,61 @@
 
 ## 📋 Table of Contents
 
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#assets)
-6. 🚀 [More](#more)
-7. 🧠 [Author](#author)
+1. ✨ Introduction  
+2. ⚙️ Tech Stack  
+3. 🔋 Features  
+4. 🤸 Quick Start  
+5. 🔗 Assets  
+6. 🚀 More / Contribute  
+7. 🧠 Author  
 
 ---
 
 ## ✨ Introduction
 
-**AI Resume Builder** is a modern web app that helps users **create, customize, and download professional resumes** with the help of AI.  
-It features **real-time editing**, **clean templates**, and **AI-powered suggestions**, built entirely with modern frontend technologies.
+**AI Resume Builder** helps users create polished, AI-enhanced resumes with minimal effort.  
+It offers templates, AI suggestions, live previews, and export capabilities — all without requiring a backend.
 
-This project runs **completely client-side**, using **Puter.js** for serverless auth, storage, and AI features — no backend setup needed.
+Everything runs in the browser using **Puter.js**, so your data stays local and your setup is minimal.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **[React](https://react.dev/)** – Component-based UI library  
-- **[React Router v7](https://reactrouter.com/)** – Modern routing for React apps  
-- **[Puter.js](https://puter.com/)** – Browser-side SDK for auth, storage & AI integration  
-- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework for fast UI design  
-- **[TypeScript](https://www.typescriptlang.org/)** – Static typing for clean, safe JavaScript  
-- **[Vite](https://vite.dev/)** – Lightning-fast dev server and bundler  
-- **[Zustand](https://zustand-demo.pmnd.rs/)** – Simple and efficient state management  
+- React  
+- React Router  
+- Puter.js  
+- Tailwind CSS  
+- TypeScript  
+- Vite  
+- Zustand (or your chosen state library)  
 
 ---
 
 ## 🔋 Features
 
-👉 **AI Resume Generation** – Build resumes with smart section suggestions  
-👉 **Customizable Templates** – Multiple designs with editable fields  
-👉 **Real-Time Preview** – See changes instantly as you edit  
-👉 **Download as PDF** – Export resumes with a single click  
-👉 **Responsive Design** – Works across desktop and mobile  
-👉 **Serverless & Secure** – Everything runs locally in your browser  
+- AI-assisted content suggestions  
+- Editable resume templates  
+- Real-time preview  
+- Export to PDF / Download  
+- Responsive UI  
+- Local/browser-based storage (no backend)  
 
 ---
 
 ## 🤸 Quick Start
 
-### **1. Prerequisites**
+### Prerequisites
 
-Make sure you have:
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
+- Git  
+- Node.js  
+- npm (or yarn)  
 
 ---
 
-### **2. Clone the Repository**
+### Setup
 
 ```bash
 git clone https://github.com/Kartikmhatre/Ai-Resume-Builder.git
 cd Ai-Resume-Builder
+npm install
