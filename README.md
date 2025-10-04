@@ -1,9 +1,11 @@
 <div align="center">
   <br />
 
-  <img src="public/readme/ai-resume-builder-banner.webp" alt="AI Resume Builder Banner">
+  <!-- 🖼️ Project Banner -->
+  <img src="https://raw.githubusercontent.com/Kartikmhatre/Ai-Resume-Builder/main/public/readme/hero.webp" alt="AI Resume Builder Banner" width="100%">
   <br />
 
+  <!-- 🧩 Tech Badges -->
   <div>
     <img alt="React Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -22,64 +24,61 @@
 
 ## 📋 Table of Contents
 
-1. ✨ [Introduction](#introduction)  
-2. ⚙️ [Tech Stack](#tech-stack)  
-3. 🔋 [Features](#features)  
-4. 🤸 [Quick Start](#quick-start)  
-5. 🔗 [Assets & Customization](#assets)  
-6. 🚀 [More / Contribution](#more)  
+1. ✨ [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🔗 [Assets](#assets)
+6. 🚀 [More](#more)
 7. 🧠 [Author](#author)
 
 ---
 
 ## ✨ Introduction
 
-**AI Resume Builder** is a web application that helps users generate professional resumes using AI-powered suggestions and customizable templates.  
-With real-time previews, secure authentication, and export features, the tool aims to simplify resume creation in a clean, responsive interface.
+**AI Resume Builder** is a modern web app that helps users **create, customize, and download professional resumes** with the help of AI.  
+It features **real-time editing**, **clean templates**, and **AI-powered suggestions**, built entirely with modern frontend technologies.
+
+This project runs **completely client-side**, using **Puter.js** for serverless auth, storage, and AI features — no backend setup needed.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **React** – UI building and component architecture  
-- **React Router** – Routing support  
-- **Puter.js** – For client-side auth, storage, and backend-less operations  
-- **Tailwind CSS** – Utility-first styling  
-- **TypeScript** – Static type safety  
-- **Vite** – Fast dev server and build tool  
-- **Zustand** (or your choice of state management) – Managing global UI / app state  
-
-*(If your project uses any other libraries / backend (e.g. Node, Express, etc.), you can list them here too.)*
+- **[React](https://react.dev/)** – Component-based UI library  
+- **[React Router v7](https://reactrouter.com/)** – Modern routing for React apps  
+- **[Puter.js](https://puter.com/)** – Browser-side SDK for auth, storage & AI integration  
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework for fast UI design  
+- **[TypeScript](https://www.typescriptlang.org/)** – Static typing for clean, safe JavaScript  
+- **[Vite](https://vite.dev/)** – Lightning-fast dev server and bundler  
+- **[Zustand](https://zustand-demo.pmnd.rs/)** – Simple and efficient state management  
 
 ---
 
 ## 🔋 Features
 
-- **User Authentication** (browser- or Puter.js-based)  
-- **Resume Templates & Customization**  
-- **AI-Powered Suggestions / Content Assist**  
-- **Live Preview / Real-time Updates**  
-- **Export to PDF or Download**  
-- **Responsive Design** (desktop, tablet, mobile)  
-- **Clean & Modular UI Components**
+👉 **AI Resume Generation** – Build resumes with smart section suggestions  
+👉 **Customizable Templates** – Multiple designs with editable fields  
+👉 **Real-Time Preview** – See changes instantly as you edit  
+👉 **Download as PDF** – Export resumes with a single click  
+👉 **Responsive Design** – Works across desktop and mobile  
+👉 **Serverless & Secure** – Everything runs locally in your browser  
 
 ---
 
 ## 🤸 Quick Start
 
-### Prerequisites
+### **1. Prerequisites**
 
 Make sure you have:
-
-- Git  
-- Node.js  
-- npm (or yarn)  
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 
 ---
 
-### Clone & Install
+### **2. Clone the Repository**
 
 ```bash
 git clone https://github.com/Kartikmhatre/Ai-Resume-Builder.git
 cd Ai-Resume-Builder
-npm install
