@@ -1,4 +1,4 @@
-  <div align="center">
+   <div align="center">
   <br />
 
   <!-- 🖼️ Using the Enhancv-style banner you showed -->
