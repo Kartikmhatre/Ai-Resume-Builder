@@ -5,7 +5,7 @@ import { clerkClient } from "@clerk/nextjs/server";
 import { NextRequest } from "next/server";
 import Stripe from "stripe";
 
-export async function POST(req: NextRequest) {
+export async function POST(req: NextRequest) { 
   try {
     const payload = await req.text();
     const signature = req.headers.get("stripe-signature");
