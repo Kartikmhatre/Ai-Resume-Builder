@@ -14,7 +14,7 @@ export async function POST(req: NextRequest) {
       return new Response("Signature is missing", { status: 400 });
     }
 
-    const event = stripe.webhooks.constructEvent(
+    const event = stripe.webhooks.constructEvent( 
       payload,
       signature,
       env.STRIPE_WEBHOOK_SECRET,
