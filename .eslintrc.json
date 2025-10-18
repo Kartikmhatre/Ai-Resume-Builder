@@ -5,7 +5,7 @@
       "error",
       { 
         "ignoreRestSiblings": true
-      }
+      } 
     ]
   }
 }
